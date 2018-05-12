@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33244
     wikipedia: http://fi.wikipedia.org/wiki/Kaarle_Karikko
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29442#UrhotHistoriallinen-novelli--Ison-vihan--ajoilta
 gutenberg_issued: '2009-07-18'
 gutenberg_type: Text
 identifiers:
